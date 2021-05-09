@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618631520 source:c:\users\sammy\desktop\university\estructura de datos\listar_mariana\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+

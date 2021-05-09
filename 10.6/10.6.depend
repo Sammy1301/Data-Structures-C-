@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616208384 source:c:\users\sammy\desktop\university\estructura de datos\10.6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
