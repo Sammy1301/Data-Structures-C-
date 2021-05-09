@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612913649 source:c:\users\sammy\desktop\university\estructura de datos\tarea 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<string.h>
+	<conio.h>
+
